@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoinDetection</string>
+    <string name="capture_button">CAPTURE COINS</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
